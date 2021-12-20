@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help to make a team.
 - 💬 Ask me about anything.
 - 📫 sathishweb27@gmail.com.
-- ⚡ Fun fact: I'm Introvert, OverThinker.
+- ⚡ Fun fact: I don't hava job 😅.
 
 ## ⚡ Things I do with
 
