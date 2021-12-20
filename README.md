@@ -3,7 +3,7 @@
 <p>I'm Sathish Kumar, MERN stack developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Tamil Nadu.</b> 
 </p>
 
-<img src="https://raw.githubusercontent.com/sathishwebdev/sathishwebdev/main/Welcome%20Back%20to%20Sandy%20Spring!.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/sathishwebdev/sathishwebdev/main/Welcome%20Back%20to%20Sandy%20Spring!(3).jpg" width="100%"/>
 
 - 🌱 I’m currently learning MERN Stack Developement.
 - 👯 I’m looking job as web developer.
