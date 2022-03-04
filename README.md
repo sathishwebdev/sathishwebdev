@@ -6,11 +6,10 @@
 [<img src="https://raw.githubusercontent.com/sathishwebdev/sathishwebdev/main/porfolio%20%20(1).gif" width="100%"/>](https://sathishwebdev.netlify.app)
 
 - 🌱 I’m currently learning MERN Stack Developement.
-- 👯 I’m looking job as web developer.
-- 🤔 I’m looking for help to make a team.
+- 👯 I’m looking for job as web designer/developer.
 - 💬 Ask me about anything.
 - 📫 sathishweb27@gmail.com.
-- ⚡ Fun fact: I don't hava job 😅.
+- ⚡ Fun fact: Still I don't hava job 😅.
 
 ## ⚡ Things I do with
 
