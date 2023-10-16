@@ -5,13 +5,11 @@
 
 [<img src="https://raw.githubusercontent.com/sathishwebdev/sathishwebdev/main/porfolio%20%20(1).gif" width="100%"/>](https://sathishwebdev.netlify.app)
 
-- 🌱 I’m currently learning MERN Stack Developement.
-- 👯 I’m looking for job as web designer/developer.
-- 💬 Ask me about anything.
-- 📫 sathishweb27@gmail.com.
-- ⚡ Fun fact: Still I don't hava job 😅.
+- 🌱 I’m currently working as Full Stack DEveloper [Adiuvo Diagnostics](https://adiuvodiagnostics.com).
+- 🤹🏻‍♂️ MERN Stack, Android(Java).
+- 📫 sathishweb27@gmail.com
 
-## ⚡ Things I do with
+## ⚡ [Things I do with](https://sathishwebdev.netlify.app)
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -26,7 +24,12 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Canva" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-0F1E25?style=flat-square&logo=netlify&logoColor=white" /> 
-  
+  <img alt="Android" src="https://img.shields.io/badge/-Android-0F1E25?style=flat-square&logo=android&logoColor=white" /> 
+  <img alt="Java" src="https://img.shields.io/badge/-Java-0F1E25?style=flat-square&logo=openjdk&logoColor=white" /> 
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-0F1E25?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Adobe%20Illustrator-0F1E25?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
+  <img alt="OpenCv" src="https://img.shields.io/badge/opencv-0F1E25?style=flat-square&logo=opencv&logoColor=green" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-0F1E25?style=flat-square&logo=python" />
 </p>
 
 
