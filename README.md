@@ -30,6 +30,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Adobe%20Illustrator-0F1E25?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
   <img alt="OpenCv" src="https://img.shields.io/badge/opencv-0F1E25?style=flat-square&logo=opencv&logoColor=green" />
   <img alt="Python" src="https://img.shields.io/badge/Python-0F1E25?style=flat-square&logo=python" />
+  <img alt="Python" src="https://img.shields.io/badge/kotlin-0F1E25?style=flat-square&logo=kotlin" />
 </p>
 
 
