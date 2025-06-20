@@ -3,13 +3,13 @@
 <p align="center" >I'm Sathish Kumar, MERN stack developer from <b>Tamil Nadu.</b> 
 </p>
 
-[<img src="https://raw.githubusercontent.com/sathishwebdev/sathishwebdev/main/porfolio%20%20(1).gif" width="100%"/>](https://sathishwebdev.com)
+[<img src="https://raw.githubusercontent.com/sathishwebdev/sathishwebdev/main/1748651686952.jpg" width="100%"/>](https://sathishwebdev.com)
 
 - 🌱 I’m currently working as Full Stack DEveloper [Adiuvo Diagnostics](https://adiuvodiagnostics.com).
 - 🤹🏻‍♂️ MERN Stack, Android(Java).
-- 📫 sathishweb27@gmail.com
+- 🌐 [sathishwebdev.com](https://sathishwebdev.com)
 
-## ⚡ [Things I do with](https://sathishwebdev.netlify.app)
+## ⚡ [Things I do with](https://sathishwebdev.com)
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -33,19 +33,7 @@
   <img alt="Python" src="https://img.shields.io/badge/kotlin-0F1E25?style=flat-square&logo=kotlin" />
 </p>
 
-
-## 😄 Cool Stats
-
-
-![Sathish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathishwebdev&show_icons=true&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sathishwebdev&theme=dark&hide_border=true)
- 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathishwebdev&theme=dark&hide_border=true&langs_count=3)
-
-
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />](https://www.buymeacoffee.com/sathishkumar)
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
